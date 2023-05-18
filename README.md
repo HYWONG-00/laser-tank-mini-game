@@ -1,5 +1,7 @@
-This is the project I have done in university
+# Projects in Uni
+
+**This is the project I have done in university**
 
 Command to run the code:
-make
-./laserTank input.txt output.txt
+1. make
+2. ./laserTank input.txt output.txt
